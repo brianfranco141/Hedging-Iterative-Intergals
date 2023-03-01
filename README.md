@@ -1,1 +1,1 @@
-# Hedging-Iterative-Intergals-
+# Hedging-Iterative-Intergals
