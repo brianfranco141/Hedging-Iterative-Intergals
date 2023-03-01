@@ -1,7 +1,7 @@
 # Hedging-Iterative-Intergals
-This code enhances the Wiener-Ito chaos decomposition for diffusion processes that have a linear growth drift and diffusion coefficient. By relaxing the orthogonality constraint in the chaos expansion, we demonstrate that it's possible to represent any p-integrable functional with p between 1 and 1 as a sum of iterated integrals of the underlying process.
+This code enhances the Wiener-Ito chaos decomposition for diffusion processes that have a linear growth drift and diffusion coefficient. By relaxing the orthogonality constraint in the chaos expansion, demonstrating that it's possible to represent any p-integrable functional with p between 1 and 1 as a sum of iterated integrals of the underlying process.
 
-We utilize a truncated sum of expansion-based neural networks for the integrands and feed the resulting parameters into a machine learning framework. This approach provides proof of concept that financial derivatives can be approximated to an arbitrary degree of accuracy in the Lp sense. Additionally, we can compute the hedging strategy for approximating financial derivatives in a closed-form analytical manner.
+Utilizing a truncated sum of expansion-based neural networks for the integrands and feed the resulting parameters into a machine learning framework. This approach provides proof of concept that financial derivatives can be approximated to an arbitrary degree of accuracy in the Lp sense. Additionally, can compute the hedging strategy for approximating financial derivatives in a closed-form analytical manner.
 
 European Option with Brownian Motion (BM)
 
