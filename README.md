@@ -3,7 +3,7 @@ This code extends the Wiener-Ito chaos decomposition of class diffusion processe
 
 European Option with Brownian Motion 
 
-<img width="550" alt="image" src="https://user-images.githubusercontent.com/42521586/222040226-5be6e06c-eb26-4606-a421-76ac51332181.png">
+<img width="550" alt="image" src="https://user-images.githubusercontent.com/42521586/222040711-23b376d8-aff6-4695-b176-6760c4c7f118.png">
 
 Asian Option in Local Volatility Model
 
