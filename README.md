@@ -1,5 +1,7 @@
 # Hedging-Iterative-Intergals
-This code extends the Wiener-Ito chaos decomposition of class diffusion processes, whose drift and diffusion coefficient are of linear growth. By omitting orthogonality in the chaos expansion, show that every p-integrable functional, for p 2 [1;1), can be represented as a sum of iterated integrals of the underlying process. Using a truncated sum of expansion based neural networks of integrands, the parameters are fed in a machine learning setting, this provides proof of concept that every financial derivative can be approximated arbitrarily in the Lp-sense. Moreover, the hedging strategy of approximating financial derivative can be computed in closed form.
+This code enhances the Wiener-Ito chaos decomposition for diffusion processes that have a linear growth drift and diffusion coefficient. By relaxing the orthogonality constraint in the chaos expansion, we demonstrate that it's possible to represent any p-integrable functional with p between 1 and 1 as a sum of iterated integrals of the underlying process.
+
+We utilize a truncated sum of expansion-based neural networks for the integrands and feed the resulting parameters into a machine learning framework. This approach provides proof of concept that financial derivatives can be approximated to an arbitrary degree of accuracy in the Lp sense. Additionally, we can compute the hedging strategy for approximating financial derivatives in a closed-form analytical manner.
 
 European Option with Brownian Motion 
 
