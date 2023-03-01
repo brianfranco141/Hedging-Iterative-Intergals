@@ -3,7 +3,7 @@ This code enhances the Wiener-Ito chaos decomposition for diffusion processes th
 
 Utilizing a truncated sum of expansion-based neural networks for the integrands and feed the resulting parameters into a machine learning framework. This approach provides proof of concept that financial derivatives can be approximated to an arbitrary degree of accuracy in the Lp sense. Additionally, can compute the hedging strategy for approximating financial derivatives in a closed-form analytical manner.
 
-European Option with Brownian Motion (BM)
+European Option in Brownian Motion (BM)
 
 <img width="550" alt="image" src="https://user-images.githubusercontent.com/42521586/222040711-23b376d8-aff6-4695-b176-6760c4c7f118.png">
 
